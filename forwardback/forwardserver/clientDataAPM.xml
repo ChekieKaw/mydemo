@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="gbk"?>
+<Accounts>
+ <Account type="number1">
+  <code>1</code>
+  <name1>APM1_1</name1>
+  <name2>APM1_2</name2>
+ </Account>
+ <Account type="number2">
+  <code>2</code>
+  <name1>APM2_1</name1>
+  <name2>APM2_2</name2>
+ </Account>
+ <Account type="number3">
+  <code>3</code>
+  <name1>APM3_1</name1>
+  <name2>APM3_2</name2>
+ </Account>
+ <Account type="number4">
+  <code>4</code>
+  <name1>APM4_1</name1>
+  <name2>APM4_2</name2>
+ </Account>
+ <Account type="number5">
+  <code>5</code>
+  <name1>APM5_1</name1>
+  <name2>APM5_2</name2>
+ </Account>
+</Accounts>

@@ -1,0 +1,26 @@
+十二月 29, 2015 2:32:59 下午 org.quickserver.net.server.impl.BasicClientHandler sendSystemMsg
+信息: New Client : 127.0.0.1
+十二月 29, 2015 2:32:59 下午 org.quickserver.net.server.impl.BasicClientHandler sendClientMsg
+详细: Sending [127.0.0.1] : +++++++++++++++++++++++++++++++
+十二月 29, 2015 2:32:59 下午 org.quickserver.net.server.impl.BasicClientHandler sendClientMsg
+详细: Sending [127.0.0.1] : | Welcome to EchoServer v 1.0 |
+十二月 29, 2015 2:32:59 下午 org.quickserver.net.server.impl.BasicClientHandler sendClientMsg
+详细: Sending [127.0.0.1] : | Note: Password = Username |
+十二月 29, 2015 2:32:59 下午 org.quickserver.net.server.impl.BasicClientHandler sendClientMsg
+详细: Sending [127.0.0.1] : | Send 'Quit' to exit |
+十二月 29, 2015 2:32:59 下午 org.quickserver.net.server.impl.BasicClientHandler sendClientMsg
+详细: Sending [127.0.0.1] : +++++++++++++++++++++++++++++++
+十二月 29, 2015 2:32:59 下午 org.quickserver.net.server.impl.BasicClientHandler sendClientMsg
+详细: Sending [127.0.0.1] : User Name :
+十二月 29, 2015 2:33:07 下午 org.quickserver.net.server.impl.BasicClientHandler sendClientMsg
+详细: Sending [127.0.0.1] : Password :
+十二月 29, 2015 2:33:11 下午 org.quickserver.net.server.impl.BasicClientHandler sendClientMsg
+详细: Sending [127.0.0.1] : Auth OK
+十二月 29, 2015 2:34:11 下午 org.quickserver.net.server.impl.BasicClientHandler handleTimeout
+详细: Timeout - Client [127.0.0.1]
+十二月 29, 2015 2:34:11 下午 org.quickserver.net.server.impl.BasicClientHandler handleTimeout
+非常详细: SocketTimeoutException : Read timed out
+十二月 29, 2015 2:34:11 下午 org.quickserver.net.server.impl.BlockingClientHandler run
+非常详细: SocketException - Client [127.0.0.1]: Timeout
+十二月 29, 2015 2:34:11 下午 org.quickserver.net.server.impl.BasicClientHandler sendSystemMsg
+信息: Connection lost : /127.0.0.1

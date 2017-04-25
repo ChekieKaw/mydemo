@@ -1,0 +1,1199 @@
+01-02-2016 09:56:21,572 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientMsg - Sending [127.0.0.1] : {system.data} client is MP1
+01-02-2016 09:56:54,741 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientMsg - Sending [127.0.0.1] : {system.data} more than 2
+01-02-2016 09:56:54,742 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientMsg - Sending [127.0.0.1] : {system.data} more than 2
+01-02-2016 09:56:54,743 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientMsg - Sending [127.0.0.1] : {system.data} more than 2
+01-02-2016 09:56:54,743 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientMsg - Sending [127.0.0.1] : {system.data} more than 2
+01-02-2016 09:56:54,744 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientMsg - Sending [127.0.0.1] : {system.data} more than 2
+01-02-2016 09:56:54,746 [¾¯¸æ     ] org.quickserver.net.server.impl.BasicClientHandler.processMaxAuthTry - Max Auth Try Reached - Client : 127.0.0.1
+01-02-2016 09:56:54,747 [·Ç³£ÏêÏ¸   ] org.quickserver.net.server.impl.NonBlockingClientHandler.run - AppException <ClientThread-Pool#1-ID:19>: -ERR Max Auth Try Reached
+01-02-2016 09:59:43,276 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientMsg - Sending [127.0.0.1] : {system.data} client is APM1
+01-02-2016 10:01:15,920 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientMsg - Sending [127.0.0.1] : {system.data} client is MP1
+01-02-2016 10:01:41,988 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientMsg - Sending [127.0.0.1] : {system.data} more than 2
+01-02-2016 10:01:41,989 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientMsg - Sending [127.0.0.1] : {system.data} more than 2
+01-02-2016 10:01:41,990 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientMsg - Sending [127.0.0.1] : {system.data} more than 2
+01-02-2016 10:01:41,992 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientMsg - Sending [127.0.0.1] : {system.data} more than 2
+01-02-2016 10:01:41,993 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientMsg - Sending [127.0.0.1] : {system.data} more than 2
+01-02-2016 10:01:41,994 [¾¯¸æ     ] org.quickserver.net.server.impl.BasicClientHandler.processMaxAuthTry - Max Auth Try Reached - Client : 127.0.0.1
+01-02-2016 10:01:41,997 [·Ç³£ÏêÏ¸   ] org.quickserver.net.server.impl.NonBlockingClientHandler.run - AppException <ClientThread-Pool#1-ID:20>: -ERR Max Auth Try Reached
+01-02-2016 03:35:33,848 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientMsg - Sending [127.0.0.1] : {system.data} client is APM1
+01-02-2016 03:36:18,003 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientMsg - Sending [127.0.0.1] : {system.data} client is APM1
+01-02-2016 03:36:23,018 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientMsg - Sending [127.0.0.1] : {system.data} client is APM1
+01-02-2016 03:38:18,229 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientMsg - Sending [127.0.0.1] : {system.data} client is APM1
+01-02-2016 03:38:24,053 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientMsg - Sending [127.0.0.1] : {system.data} client is APM1
+01-02-2016 04:09:52,165 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-02-2016 04:09:52,165 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-02-2016 04:09:52,166 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 14.00 B
+01-02-2016 04:11:15,338 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-02-2016 04:11:15,339 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-02-2016 04:11:15,339 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 14.00 B
+01-02-2016 04:11:17,643 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-02-2016 04:11:17,644 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-02-2016 04:11:17,645 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 14.00 B
+01-02-2016 04:11:19,274 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-02-2016 04:11:19,275 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-02-2016 04:11:19,276 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 14.00 B
+01-02-2016 04:11:21,532 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-02-2016 04:11:21,532 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-02-2016 04:11:21,533 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 14.00 B
+01-02-2016 04:11:24,291 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-02-2016 04:11:24,291 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-02-2016 04:11:24,292 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 14.00 B
+01-02-2016 04:16:53,348 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-02-2016 04:16:53,349 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-02-2016 04:16:53,350 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 14.00 B
+01-02-2016 04:17:01,405 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-02-2016 04:17:01,405 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-02-2016 04:17:01,405 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 14.00 B
+01-02-2016 04:19:45,667 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-02-2016 04:19:45,668 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-02-2016 04:19:45,669 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 14.00 B
+01-02-2016 04:25:08,085 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-02-2016 04:25:08,085 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-02-2016 04:25:08,085 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 14.00 B
+01-02-2016 04:25:09,942 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 04:25:09,942 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 04:25:11,242 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 04:25:11,243 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 04:25:12,357 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 04:25:12,357 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 04:25:13,022 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 04:25:13,022 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 04:25:13,675 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 04:25:13,675 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 04:25:14,379 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 04:25:14,379 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 04:25:14,859 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 04:25:14,859 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 04:25:28,923 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 04:25:28,923 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 04:25:29,499 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 04:25:29,499 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 04:25:29,946 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 04:25:29,946 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 04:25:30,379 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 04:25:30,379 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 04:42:29,813 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-02-2016 04:42:29,814 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-02-2016 04:42:29,815 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 14.00 B
+01-02-2016 04:42:31,970 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 04:42:31,971 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 04:42:33,548 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 04:42:33,548 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 04:42:34,586 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 04:42:34,587 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 04:42:35,921 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 04:42:35,921 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 04:42:36,941 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 04:42:36,941 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 04:42:37,588 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 04:42:37,588 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 04:42:38,116 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 04:42:38,117 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 04:42:38,518 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 04:42:38,518 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 04:42:38,895 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 04:42:38,895 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 04:42:39,291 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 04:42:39,292 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 04:42:40,378 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 04:42:40,379 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 04:42:42,746 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 04:42:42,747 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 04:42:43,364 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 04:42:43,365 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 07:27:51,523 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-02-2016 07:27:51,523 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-02-2016 07:27:51,524 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 14.00 B
+01-02-2016 07:27:53,023 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 07:27:53,023 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 07:28:41,249 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-02-2016 07:28:41,249 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-02-2016 07:28:41,250 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 13.00 B
+01-02-2016 07:28:43,038 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 07:28:43,038 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 32.00 B
+01-02-2016 07:28:44,110 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 07:28:44,110 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 32.00 B
+01-02-2016 07:28:44,669 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 07:28:44,669 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 32.00 B
+01-02-2016 07:28:46,470 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 07:28:46,470 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 07:28:47,011 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 07:28:47,011 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 07:28:47,425 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 07:28:47,425 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 07:28:49,292 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 07:28:49,292 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 32.00 B
+01-02-2016 07:28:49,933 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 07:28:49,933 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 32.00 B
+01-02-2016 07:28:50,400 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 07:28:50,400 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 32.00 B
+01-02-2016 07:28:50,871 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 07:28:50,872 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 32.00 B
+01-02-2016 07:28:51,281 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 07:28:51,281 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 32.00 B
+01-02-2016 08:07:26,400 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-02-2016 08:07:26,400 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-02-2016 08:07:26,400 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 14.00 B
+01-02-2016 08:07:28,831 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-02-2016 08:07:28,831 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-02-2016 08:07:28,833 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 13.00 B
+01-02-2016 08:07:31,680 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 08:07:31,680 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 08:07:33,214 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 08:07:33,215 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 08:07:34,368 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 08:07:34,368 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 08:07:35,579 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 08:07:35,579 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 08:07:36,097 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 08:07:36,097 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 08:07:36,625 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 08:07:36,626 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 08:07:39,209 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 08:07:39,210 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 32.00 B
+01-02-2016 08:07:39,729 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 08:07:39,729 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 32.00 B
+01-02-2016 08:07:40,616 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 08:07:40,616 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 32.00 B
+01-02-2016 08:07:41,075 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 08:07:41,076 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 32.00 B
+01-02-2016 08:07:41,415 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 08:07:41,415 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 32.00 B
+01-02-2016 08:07:43,054 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 08:07:43,055 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 08:07:43,414 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 08:07:43,415 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 08:07:43,815 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 08:07:43,815 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 08:07:44,188 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 08:07:44,188 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 08:07:44,600 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 08:07:44,601 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 08:07:44,787 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 08:07:44,787 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 08:07:45,887 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 08:07:45,887 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 32.00 B
+01-02-2016 08:07:46,300 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 08:07:46,300 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 32.00 B
+01-02-2016 08:07:46,676 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 08:07:46,676 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 32.00 B
+01-02-2016 08:07:47,072 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 08:07:47,072 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 32.00 B
+01-02-2016 08:41:01,238 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-02-2016 08:41:01,238 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-02-2016 08:41:01,238 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 14.00 B
+01-02-2016 08:41:02,593 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 08:41:03,364 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 08:41:03,986 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 08:41:04,569 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 08:41:07,527 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-02-2016 08:41:07,527 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-02-2016 08:41:07,528 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 13.00 B
+01-02-2016 08:41:12,594 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 08:41:12,595 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 32.00 B
+01-02-2016 08:41:13,316 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 08:41:13,316 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 32.00 B
+01-02-2016 08:41:13,828 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 08:41:13,828 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 32.00 B
+01-02-2016 08:41:14,523 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 08:41:14,523 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 32.00 B
+01-02-2016 08:41:15,151 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-02-2016 08:41:15,151 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 32.00 B
+01-02-2016 08:41:17,510 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 08:41:17,510 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 08:41:18,116 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 08:41:18,116 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 08:41:18,730 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 08:41:18,730 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 08:41:19,194 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 08:41:19,194 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 08:41:19,802 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 08:41:19,802 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 08:41:20,535 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 08:41:20,535 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-02-2016 08:41:21,084 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-02-2016 08:41:21,084 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 34.00 B
+01-04-2016 06:53:11,715 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 06:53:11,720 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 06:54:31,904 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 06:54:31,905 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 06:54:54,310 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 06:54:54,310 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 06:56:05,108 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 06:56:05,108 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 06:56:05,111 [¾¯¸æ     ] org.quickserver.net.server.impl.BasicClientHandler.processMaxAuthTry - Max Auth Try Reached - Client : 127.0.0.1
+01-04-2016 06:56:05,113 [·Ç³£ÏêÏ¸   ] org.quickserver.net.server.impl.NonBlockingClientHandler.run - AppException <ClientThread-Pool#1-ID:20>: -ERR Max Auth Try Reached
+01-04-2016 06:56:09,855 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 06:56:09,855 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 06:56:09,862 [¾¯¸æ     ] org.quickserver.net.server.impl.BasicClientHandler.processMaxAuthTry - Max Auth Try Reached - Client : 127.0.0.1
+01-04-2016 06:56:09,865 [·Ç³£ÏêÏ¸   ] org.quickserver.net.server.impl.NonBlockingClientHandler.run - AppException <ClientThread-Pool#1-ID:20>: -ERR Max Auth Try Reached
+01-04-2016 07:00:20,583 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:00:20,584 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:00:27,578 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:00:27,579 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:00:44,487 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:00:44,487 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:00:58,208 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:00:58,208 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:01:00,519 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:01:00,519 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:01:01,217 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:01:01,217 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:01:01,822 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:01:01,823 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:01:02,310 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:01:02,310 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:01:04,346 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:01:04,346 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:01:05,372 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:01:05,372 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:01:12,494 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:01:12,495 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:01:14,415 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:01:14,416 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:01:24,431 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:01:24,431 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:01:24,437 [¾¯¸æ     ] org.quickserver.net.server.impl.BasicClientHandler.processMaxAuthTry - Max Auth Try Reached - Client : 127.0.0.1
+01-04-2016 07:01:24,440 [·Ç³£ÏêÏ¸   ] org.quickserver.net.server.impl.NonBlockingClientHandler.run - AppException <ClientThread-Pool#1-ID:20>: -ERR Max Auth Try Reached
+01-04-2016 07:03:00,015 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:03:00,016 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:03:03,556 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:03:03,556 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:03:05,961 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:03:05,963 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:03:10,677 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:03:10,677 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:03:13,174 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:03:13,175 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:03:14,886 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:03:14,887 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:03:19,102 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:03:19,102 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:03:21,078 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:03:21,079 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:03:34,311 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:03:34,311 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:03:36,397 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:03:36,398 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:03:37,924 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:03:37,924 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:03:40,650 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:03:40,650 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:03:44,710 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:03:44,710 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:03:44,716 [¾¯¸æ     ] org.quickserver.net.server.impl.BasicClientHandler.processMaxAuthTry - Max Auth Try Reached - Client : 127.0.0.1
+01-04-2016 07:03:44,718 [·Ç³£ÏêÏ¸   ] org.quickserver.net.server.impl.NonBlockingClientHandler.run - AppException <ClientThread-Pool#1-ID:20>: -ERR Max Auth Try Reached
+01-04-2016 07:03:51,467 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:03:51,467 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:03:53,942 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:03:53,942 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:04:07,531 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:04:07,531 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:04:08,580 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:04:08,580 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:04:09,389 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:04:09,390 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:04:10,263 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:04:10,263 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:04:23,565 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:04:23,566 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:04:24,403 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:04:24,404 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:04:25,072 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:04:25,073 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:04:25,556 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:04:25,556 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:04:26,000 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:04:26,000 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:04:29,406 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:04:29,406 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:04:31,146 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:04:31,146 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:04:34,334 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:04:34,334 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:04:36,132 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:04:36,132 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:04:38,438 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:04:38,438 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:04:42,301 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:04:42,302 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:04:43,293 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:04:43,293 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:04:45,838 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:04:45,838 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:04:49,440 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:04:49,440 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:04:52,649 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:04:52,650 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:04:53,949 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:04:53,950 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:04:59,885 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:04:59,885 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:06:19,277 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:06:19,277 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:06:21,671 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:06:21,671 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:06:25,508 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:06:25,508 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:10:08,280 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:10:08,281 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:10:14,176 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:10:14,176 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:10:22,991 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:10:22,991 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:10:23,831 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:10:23,832 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:10:24,472 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:10:24,473 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:10:24,952 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:10:24,953 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:10:26,033 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:10:26,033 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:10:26,223 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:10:26,223 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:10:26,583 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:10:26,583 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:13:13,872 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:13:13,872 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:13:18,439 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:13:18,440 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:13:20,757 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:13:20,758 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:13:22,359 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:13:22,360 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:13:30,214 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:13:30,215 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:13:34,847 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:13:34,847 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:13:36,236 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:13:36,236 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:13:41,901 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:13:41,901 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:17:43,339 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:17:43,340 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:17:45,319 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:17:45,319 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:17:46,690 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:17:46,691 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:17:48,680 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:17:48,680 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:17:55,654 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:17:55,654 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:18:00,253 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:18:00,253 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:18:01,705 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:18:01,705 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:18:02,785 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:18:02,785 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:18:03,915 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:18:03,915 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:18:05,287 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:18:05,287 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:18:07,249 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:18:07,249 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:18:10,644 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:18:10,644 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:18:13,027 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:18:13,028 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:18:14,695 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:18:14,696 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:18:35,119 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:18:35,119 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:28:04,563 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:28:04,563 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:39:54,754 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:39:54,756 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:40:00,507 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:40:00,507 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:40:11,153 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:40:11,154 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:42:48,567 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:42:48,567 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:42:53,840 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:42:53,840 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:43:03,177 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:43:03,178 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:43:03,188 [¾¯¸æ     ] org.quickserver.net.server.impl.BasicClientHandler.processMaxAuthTry - Max Auth Try Reached - Client : 127.0.0.1
+01-04-2016 07:43:03,192 [·Ç³£ÏêÏ¸   ] org.quickserver.net.server.impl.NonBlockingClientHandler.run - AppException <ClientThread-Pool#1-ID:20>: -ERR Max Auth Try Reached
+01-04-2016 07:43:09,337 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:43:09,337 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:43:11,876 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:43:11,876 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:43:14,823 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:43:14,823 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:43:18,916 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:43:18,916 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:43:24,535 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:43:24,535 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:43:26,610 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:43:26,610 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:43:28,032 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:43:28,033 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:43:29,575 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:43:29,576 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:43:31,907 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:43:31,907 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:43:37,329 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:43:37,329 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:50:10,902 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:50:10,902 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:50:14,858 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:50:14,858 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:50:19,984 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:50:19,985 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:56:56,262 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:56:56,263 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:57:06,727 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:57:06,728 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:57:08,885 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:57:08,885 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:57:16,169 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-04-2016 07:57:19,229 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:57:19,229 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 07:58:15,070 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 07:58:15,071 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:00:47,030 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:00:47,031 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:00:59,091 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:00:59,091 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:01:40,855 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:01:40,856 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:04:59,381 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:04:59,381 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:05:04,743 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:05:04,743 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:05:07,532 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:05:07,533 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:05:15,199 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:05:15,200 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:05:18,124 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:05:18,124 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:06:33,934 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:06:33,934 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:06:36,789 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:06:36,790 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:06:41,044 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:06:41,044 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:06:43,019 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:06:43,019 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:06:44,374 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:06:44,375 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:06:47,581 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:06:47,581 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:06:49,517 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:06:49,517 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:06:54,494 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:06:54,494 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:07:00,773 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:07:00,773 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:07:02,669 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:07:02,670 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:07:04,812 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:07:04,813 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:07:07,879 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:07:07,879 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:07:09,807 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:07:09,807 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:07:10,963 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:07:10,964 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:07:12,084 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:07:12,084 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:07:13,399 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:07:13,400 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:07:14,870 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:07:14,870 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:08:19,740 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:08:19,741 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:08:24,341 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:08:24,341 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:08:54,609 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:08:54,610 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:08:58,282 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:08:58,283 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:09:01,615 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:09:01,615 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:09:04,336 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:09:04,336 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:09:08,356 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:09:08,356 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-04-2016 08:09:10,735 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-04-2016 08:09:10,735 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-05-2016 07:06:04,423 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-05-2016 07:06:04,428 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-05-2016 07:06:08,627 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 5.00 B
+01-05-2016 07:06:12,845 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 6.00 B
+01-05-2016 07:06:34,639 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-05-2016 07:06:34,639 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-05-2016 07:06:38,048 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 4.00 B
+01-05-2016 07:06:38,048 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 4.00 B
+01-05-2016 07:06:43,407 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 7.00 B
+01-05-2016 07:06:43,407 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 7.00 B
+01-05-2016 07:06:47,526 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 8.00 B
+01-05-2016 07:06:47,526 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 8.00 B
+01-05-2016 07:06:50,557 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 8.00 B
+01-05-2016 07:06:50,557 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 8.00 B
+01-05-2016 07:06:57,079 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 8.00 B
+01-05-2016 07:06:57,080 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 8.00 B
+01-05-2016 07:11:56,651 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-05-2016 07:11:56,651 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-05-2016 07:11:59,289 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-05-2016 07:11:59,289 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-05-2016 07:12:04,101 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 7.00 B
+01-05-2016 07:12:04,101 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 7.00 B
+01-05-2016 07:12:10,166 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 8.00 B
+01-05-2016 07:12:10,166 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 8.00 B
+01-05-2016 07:12:13,575 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 9.00 B
+01-05-2016 07:12:13,575 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 9.00 B
+01-05-2016 07:12:17,693 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 11.00 B
+01-05-2016 07:12:17,693 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 11.00 B
+01-05-2016 07:52:55,307 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-05-2016 07:52:55,308 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-05-2016 07:52:56,974 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-05-2016 07:52:56,974 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-05-2016 07:53:01,677 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 4.00 B
+01-05-2016 07:53:01,677 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 4.00 B
+01-05-2016 07:53:10,477 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 7.00 B
+01-05-2016 07:53:10,477 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 7.00 B
+01-07-2016 02:15:47,653 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 02:15:47,657 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 02:15:51,688 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 14.00 B
+01-07-2016 02:15:54,363 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 21.00 B
+01-07-2016 02:15:57,064 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 24.00 B
+01-07-2016 02:15:59,097 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 17.00 B
+01-07-2016 02:16:00,939 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 15.00 B
+01-07-2016 02:30:55,083 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 02:30:55,084 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 02:31:05,864 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 02:31:05,864 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 02:31:45,947 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 02:31:45,947 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 02:31:56,371 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 02:31:56,371 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 02:32:54,674 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 02:32:54,674 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 02:32:58,482 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 02:32:58,482 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 02:33:12,146 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 02:33:12,146 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 02:33:14,953 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 02:33:14,953 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 03:42:00,984 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 03:42:00,984 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 03:43:06,747 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 03:43:06,747 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 03:44:49,940 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 03:44:49,941 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 03:45:02,798 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 03:45:02,798 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 03:53:41,668 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 03:53:41,670 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 03:54:00,421 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 03:54:00,422 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 04:01:08,021 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 04:01:08,021 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 04:01:12,614 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 04:01:12,614 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 04:02:28,713 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 04:02:28,714 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 04:02:33,224 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 04:02:33,224 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 04:05:31,597 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 04:05:31,597 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 04:05:42,910 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 04:05:42,910 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 04:06:37,594 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 04:06:37,594 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 04:10:41,777 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 04:10:41,778 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 04:10:46,920 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 04:10:46,920 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 04:10:51,711 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 04:10:51,711 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 06:57:50,117 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 06:57:50,121 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 06:57:53,978 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 06:57:53,978 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 06:57:55,778 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 06:57:55,778 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 06:57:59,466 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 06:57:59,466 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 06:58:01,434 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 06:58:01,434 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 06:58:19,252 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 06:58:19,252 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 06:58:22,226 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 06:58:22,226 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 06:58:23,786 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 06:58:23,786 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 06:58:25,170 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 06:58:25,170 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 06:58:35,666 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 06:58:35,666 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 06:58:40,545 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 06:58:40,545 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 06:58:42,041 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 06:58:42,041 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 06:58:46,421 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 06:58:46,421 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 06:58:48,067 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 06:58:48,067 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 06:58:52,946 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 06:58:52,946 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-07-2016 06:58:54,769 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-07-2016 06:58:54,769 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-08-2016 10:45:32,340 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-08-2016 10:45:32,654 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-08-2016 10:46:12,145 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-08-2016 10:46:12,146 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-08-2016 10:46:16,332 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 6.00 B
+01-08-2016 10:46:16,332 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 6.00 B
+01-08-2016 10:46:20,008 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 10.00 B
+01-08-2016 10:46:20,008 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 10.00 B
+01-08-2016 10:46:22,080 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 8.00 B
+01-08-2016 10:46:22,081 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 8.00 B
+01-08-2016 10:46:24,357 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 8.00 B
+01-08-2016 10:46:24,357 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 8.00 B
+01-08-2016 10:46:27,724 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 29.00 B
+01-08-2016 10:46:27,725 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 29.00 B
+01-08-2016 10:46:30,274 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 26.00 B
+01-08-2016 10:46:30,275 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 26.00 B
+01-08-2016 10:46:33,255 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 37.00 B
+01-08-2016 10:46:33,256 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 37.00 B
+01-08-2016 10:46:35,985 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-08-2016 10:46:35,986 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 32.00 B
+01-08-2016 10:46:38,910 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 36.00 B
+01-08-2016 10:46:38,911 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 36.00 B
+01-08-2016 10:46:41,096 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 8.00 B
+01-08-2016 10:46:41,096 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 8.00 B
+01-08-2016 10:46:43,823 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 30.00 B
+01-08-2016 10:46:43,824 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 30.00 B
+01-08-2016 10:46:45,543 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 6.00 B
+01-08-2016 10:46:45,544 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 6.00 B
+01-08-2016 10:49:27,480 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 6.00 B
+01-08-2016 10:49:27,480 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 6.00 B
+01-08-2016 11:02:35,259 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-08-2016 11:02:35,259 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-08-2016 11:02:41,930 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 7.00 B
+01-08-2016 11:02:45,090 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 9.00 B
+01-08-2016 11:02:56,589 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 5.00 B
+01-08-2016 11:02:56,593 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 5.00 B
+01-08-2016 11:02:56,600 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 15.00 B
+01-08-2016 11:02:56,605 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 15.00 B
+01-08-2016 11:02:56,608 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 10.00 B
+01-08-2016 11:03:00,441 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 5.00 B
+01-08-2016 11:03:00,444 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 5.00 B
+01-08-2016 11:03:00,445 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 5.00 B
+01-08-2016 11:03:00,448 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 10.00 B
+01-08-2016 11:03:00,451 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 25.00 B
+01-08-2016 11:03:04,685 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 11.00 B
+01-08-2016 11:03:04,689 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 11.00 B
+01-08-2016 11:03:04,693 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 22.00 B
+01-08-2016 11:03:04,697 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 55.00 B
+01-08-2016 11:03:04,700 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 11.00 B
+01-08-2016 11:03:06,675 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 6.00 B
+01-08-2016 11:03:06,678 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 6.00 B
+01-08-2016 11:03:06,681 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 6.00 B
+01-08-2016 11:03:06,684 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 42.00 B
+01-08-2016 11:03:11,307 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 6.00 B
+01-08-2016 11:03:11,314 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 6.00 B
+01-08-2016 11:03:11,316 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 6.00 B
+01-08-2016 11:03:11,320 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 12.00 B
+01-08-2016 11:03:11,323 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 6.00 B
+01-08-2016 11:03:11,326 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 108.00 B
+01-08-2016 11:03:11,329 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 30.00 B
+01-08-2016 11:03:11,331 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 12.00 B
+01-08-2016 11:03:11,334 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 12.00 B
+01-08-2016 11:03:11,337 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 18.00 B
+01-08-2016 11:03:11,339 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 30.00 B
+01-08-2016 11:03:11,340 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 6.00 B
+01-08-2016 11:03:11,341 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 24.00 B
+01-08-2016 11:03:11,342 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 12.00 B
+01-08-2016 11:03:11,344 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 12.00 B
+01-08-2016 11:03:11,345 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 12.00 B
+01-08-2016 11:03:11,346 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 12.00 B
+01-08-2016 11:03:11,348 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 54.00 B
+01-08-2016 11:03:11,349 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 24.00 B
+01-08-2016 11:03:11,350 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 42.00 B
+01-08-2016 11:03:11,353 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 48.00 B
+01-08-2016 11:03:11,354 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 24.00 B
+01-08-2016 11:03:11,356 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 6.00 B
+01-08-2016 11:03:11,357 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 12.00 B
+01-08-2016 11:03:11,358 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 12.00 B
+01-08-2016 11:03:11,359 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 18.00 B
+01-08-2016 11:03:11,361 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 36.00 B
+01-08-2016 11:03:15,611 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 17.00 B
+01-08-2016 11:03:15,616 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 17.00 B
+01-08-2016 11:03:15,619 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 17.00 B
+01-08-2016 11:03:15,621 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 17.00 B
+01-08-2016 11:03:15,624 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-08-2016 11:03:15,626 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-08-2016 11:03:15,629 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 17.00 B
+01-08-2016 11:03:15,630 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 85.00 B
+01-08-2016 11:03:15,633 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-08-2016 11:03:15,637 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 289.00 B
+01-08-2016 11:03:15,639 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 68.00 B
+01-08-2016 11:03:15,640 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 34.00 B
+01-08-2016 11:03:15,642 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 153.00 B
+01-08-2016 11:03:15,644 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 102.00 B
+01-08-2016 11:03:15,647 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 102.00 B
+01-08-2016 11:03:15,650 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 102.00 B
+01-08-2016 11:03:15,653 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 85.00 B
+01-08-2016 11:03:15,654 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 51.00 B
+01-08-2016 11:03:15,657 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 85.00 B
+01-08-2016 11:03:15,657 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 51.00 B
+01-08-2016 11:03:15,658 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 85.00 B
+01-08-2016 11:03:15,659 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 85.00 B
+01-08-2016 11:03:15,660 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 68.00 B
+01-08-2016 11:03:15,661 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 68.00 B
+01-08-2016 11:03:37,048 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-08-2016 11:03:37,049 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-08-2016 11:03:41,679 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 7.00 B
+01-08-2016 11:03:41,680 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 7.00 B
+01-08-2016 11:03:41,687 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 7.00 B
+01-08-2016 11:03:41,688 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 7.00 B
+01-08-2016 11:03:41,691 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 7.00 B
+01-08-2016 11:03:41,693 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 7.00 B
+01-08-2016 11:03:41,696 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 112.00 B
+01-08-2016 11:03:41,698 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 112.00 B
+01-08-2016 11:03:41,700 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 70.00 B
+01-08-2016 11:03:41,704 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 70.00 B
+01-08-2016 11:03:41,707 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 196.00 B
+01-08-2016 11:03:41,708 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 196.00 B
+01-08-2016 11:03:41,711 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 161.00 B
+01-08-2016 11:03:41,712 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 161.00 B
+01-08-2016 11:03:41,714 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 35.00 B
+01-08-2016 11:03:41,715 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 35.00 B
+01-08-2016 11:03:41,717 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 14.00 B
+01-08-2016 11:03:41,718 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 14.00 B
+01-08-2016 11:03:41,721 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 28.00 B
+01-08-2016 11:03:41,722 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 28.00 B
+01-08-2016 11:03:41,725 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 56.00 B
+01-08-2016 11:03:41,725 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 56.00 B
+01-08-2016 11:03:41,727 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 7.00 B
+01-08-2016 11:03:41,727 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 7.00 B
+01-08-2016 11:03:46,248 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 7.00 B
+01-08-2016 11:03:46,249 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 7.00 B
+01-08-2016 11:03:46,257 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 7.00 B
+01-08-2016 11:03:46,259 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 7.00 B
+01-08-2016 11:03:46,260 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 7.00 B
+01-08-2016 11:03:46,261 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 7.00 B
+01-08-2016 11:03:46,263 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 14.00 B
+01-08-2016 11:03:46,265 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 14.00 B
+01-08-2016 11:03:46,271 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 98.00 B
+01-08-2016 11:03:46,273 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 98.00 B
+01-08-2016 11:03:46,279 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 56.00 B
+01-08-2016 11:03:46,280 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 56.00 B
+01-08-2016 11:03:46,283 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 14.00 B
+01-08-2016 11:03:46,284 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 14.00 B
+01-08-2016 11:03:46,287 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 56.00 B
+01-08-2016 11:03:46,288 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 56.00 B
+01-08-2016 11:03:46,289 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 42.00 B
+01-08-2016 11:03:46,290 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 42.00 B
+01-08-2016 11:03:46,291 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 7.00 B
+01-08-2016 11:03:46,291 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 7.00 B
+01-08-2016 11:03:46,292 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 7.00 B
+01-08-2016 11:03:46,292 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 7.00 B
+01-08-2016 11:03:46,294 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 7.00 B
+01-08-2016 11:03:46,294 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 7.00 B
+01-08-2016 11:03:46,295 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 7.00 B
+01-08-2016 11:03:46,297 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 7.00 B
+01-08-2016 11:03:46,297 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 49.00 B
+01-08-2016 11:03:46,298 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 49.00 B
+01-08-2016 11:03:46,299 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 56.00 B
+01-08-2016 11:03:46,299 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 56.00 B
+01-08-2016 11:03:46,300 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 28.00 B
+01-08-2016 11:03:46,300 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 28.00 B
+01-08-2016 11:03:46,302 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 28.00 B
+01-08-2016 11:03:46,304 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 28.00 B
+01-08-2016 11:03:46,307 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 42.00 B
+01-08-2016 11:03:46,307 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 42.00 B
+01-08-2016 11:03:46,310 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 28.00 B
+01-08-2016 11:03:46,312 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 28.00 B
+01-08-2016 11:03:46,313 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 42.00 B
+01-08-2016 11:03:46,316 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 42.00 B
+01-08-2016 11:03:46,317 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 98.00 B
+01-08-2016 11:03:46,318 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 98.00 B
+01-08-2016 11:03:48,310 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 6.00 B
+01-08-2016 11:03:48,311 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 6.00 B
+01-08-2016 11:03:48,319 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 6.00 B
+01-08-2016 11:03:48,319 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 6.00 B
+01-08-2016 11:03:48,321 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 6.00 B
+01-08-2016 11:03:48,322 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 6.00 B
+01-08-2016 11:03:48,328 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 12.00 B
+01-08-2016 11:03:48,330 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 12.00 B
+01-08-2016 11:03:48,331 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 90.00 B
+01-08-2016 11:03:48,333 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 90.00 B
+01-08-2016 11:03:48,334 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 60.00 B
+01-08-2016 11:03:48,339 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 60.00 B
+01-08-2016 11:03:48,340 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 66.00 B
+01-08-2016 11:03:48,344 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 66.00 B
+01-08-2016 11:03:48,346 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 24.00 B
+01-08-2016 11:03:48,348 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 24.00 B
+01-08-2016 11:03:48,349 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 24.00 B
+01-08-2016 11:03:48,349 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 24.00 B
+01-08-2016 11:03:48,352 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 24.00 B
+01-08-2016 11:03:48,353 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 24.00 B
+01-08-2016 11:03:48,354 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 12.00 B
+01-08-2016 11:03:48,355 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 12.00 B
+01-08-2016 11:03:48,355 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 6.00 B
+01-08-2016 11:03:48,357 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 6.00 B
+01-08-2016 11:03:48,358 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 96.00 B
+01-08-2016 11:03:48,359 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 96.00 B
+01-08-2016 11:03:48,359 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 18.00 B
+01-08-2016 11:03:48,360 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 18.00 B
+01-08-2016 11:03:48,361 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 12.00 B
+01-08-2016 11:03:48,361 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 12.00 B
+01-08-2016 11:03:48,362 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 24.00 B
+01-08-2016 11:03:48,362 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 24.00 B
+01-08-2016 11:03:48,363 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 18.00 B
+01-08-2016 11:03:48,363 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 18.00 B
+01-08-2016 11:03:48,364 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 30.00 B
+01-08-2016 11:03:48,364 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 30.00 B
+01-08-2016 11:03:48,365 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 24.00 B
+01-08-2016 11:03:48,365 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 24.00 B
+01-08-2016 11:03:48,366 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 24.00 B
+01-08-2016 11:03:48,366 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 24.00 B
+01-08-2016 11:03:48,367 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 12.00 B
+01-08-2016 11:03:48,367 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 12.00 B
+01-08-2016 11:03:48,368 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 6.00 B
+01-08-2016 11:03:48,369 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 6.00 B
+01-08-2016 11:03:50,910 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 20.00 B
+01-08-2016 11:03:50,910 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 20.00 B
+01-08-2016 11:03:50,911 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 20.00 B
+01-08-2016 11:03:50,912 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 20.00 B
+01-08-2016 11:03:50,912 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 20.00 B
+01-08-2016 11:03:50,913 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 20.00 B
+01-08-2016 11:03:50,914 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 20.00 B
+01-08-2016 11:03:50,914 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 20.00 B
+01-08-2016 11:03:50,915 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 140.00 B
+01-08-2016 11:03:50,916 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 140.00 B
+01-08-2016 11:03:50,916 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 160.00 B
+01-08-2016 11:03:50,917 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 160.00 B
+01-08-2016 11:03:50,920 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 360.00 B
+01-08-2016 11:03:50,921 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 360.00 B
+01-08-2016 11:03:50,922 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 140.00 B
+01-08-2016 11:03:50,923 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 140.00 B
+01-08-2016 11:03:50,924 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 140.00 B
+01-08-2016 11:03:50,925 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 140.00 B
+01-08-2016 11:03:50,925 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 140.00 B
+01-08-2016 11:03:50,927 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 140.00 B
+01-08-2016 11:03:50,928 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 220.00 B
+01-08-2016 11:03:50,928 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 220.00 B
+01-08-2016 11:03:50,928 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 140.00 B
+01-08-2016 11:03:50,929 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 140.00 B
+01-08-2016 11:03:50,930 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 200.00 B
+01-08-2016 11:03:50,931 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 200.00 B
+01-08-2016 11:03:50,934 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 100.00 B
+01-08-2016 11:03:50,934 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 100.00 B
+01-08-2016 11:03:50,935 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 20.00 B
+01-08-2016 11:03:50,936 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 20.00 B
+01-08-2016 11:03:50,937 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 60.00 B
+01-08-2016 11:03:50,937 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 60.00 B
+01-08-2016 11:03:50,939 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 100.00 B
+01-08-2016 11:03:50,939 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 100.00 B
+01-08-2016 11:03:53,100 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 4.00 B
+01-08-2016 11:03:53,101 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 4.00 B
+01-08-2016 11:03:53,106 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 24.00 B
+01-08-2016 11:03:53,106 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 24.00 B
+01-08-2016 11:03:53,107 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 4.00 B
+01-08-2016 11:03:53,108 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 4.00 B
+01-08-2016 11:03:53,112 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 56.00 B
+01-08-2016 11:03:53,115 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 56.00 B
+01-08-2016 11:03:53,119 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 64.00 B
+01-08-2016 11:03:53,124 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 64.00 B
+01-08-2016 11:03:53,124 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 36.00 B
+01-08-2016 11:03:53,125 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 36.00 B
+01-08-2016 11:03:53,128 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 8.00 B
+01-08-2016 11:03:53,129 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 8.00 B
+01-08-2016 11:03:53,129 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 8.00 B
+01-08-2016 11:03:53,133 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 8.00 B
+01-08-2016 11:03:53,134 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 12.00 B
+01-08-2016 11:03:53,135 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 12.00 B
+01-08-2016 11:03:53,136 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 4.00 B
+01-08-2016 11:03:53,136 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 4.00 B
+01-08-2016 11:03:53,137 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 4.00 B
+01-08-2016 11:03:53,138 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 4.00 B
+01-08-2016 11:03:53,139 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 8.00 B
+01-08-2016 11:03:53,141 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 8.00 B
+01-08-2016 11:03:53,142 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 12.00 B
+01-08-2016 11:03:53,142 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 12.00 B
+01-08-2016 11:03:53,142 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 4.00 B
+01-08-2016 11:03:53,143 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 4.00 B
+01-08-2016 11:03:53,144 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 8.00 B
+01-08-2016 11:03:53,145 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 8.00 B
+01-08-2016 11:03:53,145 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 16.00 B
+01-08-2016 11:03:53,146 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 16.00 B
+01-08-2016 11:03:53,147 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 4.00 B
+01-08-2016 11:03:53,148 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 4.00 B
+01-08-2016 11:03:53,149 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 4.00 B
+01-08-2016 11:03:53,153 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 4.00 B
+01-08-2016 11:03:53,153 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 8.00 B
+01-08-2016 11:03:53,154 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 8.00 B
+01-08-2016 11:03:53,155 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 8.00 B
+01-08-2016 11:03:53,155 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 8.00 B
+01-08-2016 11:03:53,157 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 4.00 B
+01-08-2016 11:03:53,157 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 4.00 B
+01-08-2016 11:03:53,157 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 24.00 B
+01-08-2016 11:03:53,158 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 24.00 B
+01-08-2016 11:03:53,159 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 56.00 B
+01-08-2016 11:03:53,159 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 56.00 B
+01-08-2016 11:03:53,160 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 20.00 B
+01-08-2016 11:03:53,160 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 20.00 B
+01-08-2016 11:03:54,553 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 4.00 B
+01-08-2016 11:03:54,554 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 4.00 B
+01-08-2016 11:03:54,557 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 4.00 B
+01-08-2016 11:03:54,558 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 4.00 B
+01-08-2016 11:03:54,560 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 4.00 B
+01-08-2016 11:03:54,561 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 4.00 B
+01-08-2016 11:03:54,565 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 12.00 B
+01-08-2016 11:03:54,569 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 12.00 B
+01-08-2016 11:03:54,571 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 68.00 B
+01-08-2016 11:03:54,572 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 68.00 B
+01-08-2016 11:03:54,573 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 20.00 B
+01-08-2016 11:03:54,575 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 20.00 B
+01-08-2016 11:03:54,576 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 12.00 B
+01-08-2016 11:03:54,577 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 12.00 B
+01-08-2016 11:03:54,580 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 12.00 B
+01-08-2016 11:03:54,581 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 12.00 B
+01-08-2016 11:03:54,582 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 4.00 B
+01-08-2016 11:03:54,583 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 4.00 B
+01-08-2016 11:03:54,584 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 8.00 B
+01-08-2016 11:03:54,585 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 8.00 B
+01-08-2016 11:03:54,587 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 12.00 B
+01-08-2016 11:03:54,587 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 12.00 B
+01-08-2016 11:03:54,588 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 8.00 B
+01-08-2016 11:03:54,589 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 8.00 B
+01-08-2016 11:03:54,591 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 12.00 B
+01-08-2016 11:03:54,591 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 12.00 B
+01-08-2016 11:03:54,593 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 8.00 B
+01-08-2016 11:03:54,593 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 8.00 B
+01-08-2016 11:03:54,594 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 4.00 B
+01-08-2016 11:03:54,594 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 4.00 B
+01-08-2016 11:03:54,596 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 4.00 B
+01-08-2016 11:03:54,597 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 4.00 B
+01-08-2016 11:03:54,600 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 8.00 B
+01-08-2016 11:03:54,601 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 8.00 B
+01-08-2016 11:03:54,601 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 4.00 B
+01-08-2016 11:03:54,602 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 4.00 B
+01-08-2016 11:03:54,602 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 8.00 B
+01-08-2016 11:03:54,603 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 8.00 B
+01-08-2016 11:03:54,604 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 20.00 B
+01-08-2016 11:03:54,605 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 20.00 B
+01-08-2016 11:03:54,606 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 28.00 B
+01-08-2016 11:03:54,606 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 28.00 B
+01-08-2016 11:03:54,606 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 36.00 B
+01-08-2016 11:03:54,606 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 36.00 B
+01-08-2016 11:03:54,608 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 32.00 B
+01-08-2016 11:03:54,608 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 32.00 B
+01-08-2016 11:03:54,608 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 4.00 B
+01-08-2016 11:03:54,608 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 4.00 B
+01-08-2016 11:03:54,610 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 12.00 B
+01-08-2016 11:03:54,610 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 12.00 B
+01-08-2016 11:03:54,611 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 52.00 B
+01-08-2016 11:03:54,612 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 52.00 B
+01-08-2016 11:04:04,976 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 12.00 B
+01-08-2016 11:04:04,976 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 12.00 B
+01-08-2016 11:04:04,979 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 12.00 B
+01-08-2016 11:04:04,982 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 12.00 B
+01-08-2016 11:04:04,983 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 12.00 B
+01-08-2016 11:04:04,984 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 12.00 B
+01-08-2016 11:04:04,986 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 84.00 B
+01-08-2016 11:04:04,989 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 84.00 B
+01-08-2016 11:04:06,603 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 5.00 B
+01-08-2016 11:04:06,603 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 5.00 B
+01-08-2016 11:04:06,606 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 5.00 B
+01-08-2016 11:04:06,608 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 5.00 B
+01-08-2016 11:04:06,609 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 25.00 B
+01-08-2016 11:04:06,610 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 25.00 B
+01-08-2016 11:04:06,612 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 15.00 B
+01-08-2016 11:04:06,613 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 15.00 B
+01-08-2016 11:04:08,994 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 5.00 B
+01-08-2016 11:04:08,995 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 5.00 B
+01-08-2016 11:04:09,001 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 5.00 B
+01-08-2016 11:04:09,001 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 5.00 B
+01-08-2016 11:04:09,003 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 5.00 B
+01-08-2016 11:04:09,003 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 5.00 B
+01-08-2016 11:04:09,005 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 5.00 B
+01-08-2016 11:04:09,007 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 5.00 B
+01-08-2016 11:04:09,009 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 30.00 B
+01-08-2016 11:04:09,009 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 30.00 B
+01-08-2016 11:04:17,551 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-08-2016 11:04:17,552 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-08-2016 11:04:21,010 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-08-2016 11:04:21,010 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-08-2016 11:06:50,443 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-08-2016 11:06:50,443 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-08-2016 11:06:51,794 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-08-2016 11:06:51,795 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-08-2016 11:06:54,491 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 45.00 B
+01-08-2016 11:06:54,493 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 45.00 B
+01-08-2016 11:06:54,500 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 45.00 B
+01-08-2016 11:06:54,501 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 45.00 B
+01-08-2016 11:06:56,320 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 7.00 B
+01-08-2016 11:06:56,321 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 7.00 B
+01-08-2016 11:06:56,324 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 63.00 B
+01-08-2016 11:06:56,326 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 63.00 B
+01-08-2016 11:06:58,319 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 7.00 B
+01-08-2016 11:06:58,320 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 7.00 B
+01-08-2016 11:06:58,323 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 63.00 B
+01-08-2016 11:06:58,325 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 63.00 B
+01-08-2016 11:07:00,639 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 16.00 B
+01-08-2016 11:07:00,640 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 16.00 B
+01-08-2016 11:07:00,649 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 416.00 B
+01-08-2016 11:07:00,650 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 416.00 B
+01-08-2016 11:07:00,652 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 200.00 B
+01-08-2016 11:07:00,655 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 200.00 B
+01-08-2016 11:07:00,658 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 168.00 B
+01-08-2016 11:07:00,659 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 168.00 B
+01-08-2016 11:07:02,562 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 8.00 B
+01-08-2016 11:07:02,563 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 8.00 B
+01-08-2016 11:07:02,567 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 72.00 B
+01-08-2016 11:07:02,568 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 72.00 B
+01-08-2016 11:07:02,571 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 496.00 B
+01-08-2016 11:07:02,575 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 224.00 B
+01-08-2016 11:07:02,576 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 496.00 B
+01-08-2016 11:07:02,578 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 224.00 B
+01-08-2016 11:07:04,174 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 7.00 B
+01-08-2016 11:07:04,175 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 7.00 B
+01-08-2016 11:07:04,179 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 280.00 B
+01-08-2016 11:07:04,184 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 126.00 B
+01-08-2016 11:07:04,184 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 280.00 B
+01-08-2016 11:07:04,187 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 196.00 B
+01-08-2016 11:07:04,188 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 126.00 B
+01-08-2016 11:07:04,192 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 196.00 B
+01-08-2016 11:07:04,194 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 91.00 B
+01-08-2016 11:07:04,196 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 91.00 B
+01-08-2016 11:07:09,984 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 4.00 B
+01-08-2016 11:07:09,985 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 4.00 B
+01-08-2016 11:07:09,989 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 80.00 B
+01-08-2016 11:07:09,990 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 80.00 B
+01-08-2016 11:07:09,995 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 92.00 B
+01-08-2016 11:07:09,998 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 152.00 B
+01-08-2016 11:07:10,000 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 92.00 B
+01-08-2016 11:07:10,001 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 152.00 B
+01-08-2016 11:07:10,008 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 72.00 B
+01-08-2016 11:07:10,009 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 72.00 B
+01-08-2016 11:07:11,550 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 3.00 B
+01-08-2016 11:07:11,550 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 3.00 B
+01-08-2016 11:07:11,554 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 6.00 B
+01-08-2016 11:07:11,555 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 6.00 B
+01-08-2016 11:07:11,557 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 54.00 B
+01-08-2016 11:07:11,560 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 54.00 B
+01-08-2016 11:07:11,561 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 42.00 B
+01-08-2016 11:07:11,564 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 42.00 B
+01-08-2016 11:07:11,569 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 54.00 B
+01-08-2016 11:07:11,571 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 54.00 B
+01-08-2016 11:07:11,574 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 141.00 B
+01-08-2016 11:07:11,575 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 141.00 B
+01-08-2016 11:07:13,028 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 4.00 B
+01-08-2016 11:07:13,029 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 4.00 B
+01-08-2016 11:07:13,034 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 24.00 B
+01-08-2016 11:07:13,036 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 36.00 B
+01-08-2016 11:07:13,038 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 36.00 B
+01-08-2016 11:07:13,039 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 24.00 B
+01-08-2016 11:07:13,041 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 152.00 B
+01-08-2016 11:07:13,046 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 152.00 B
+01-08-2016 11:07:13,048 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 184.00 B
+01-08-2016 11:07:13,050 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 184.00 B
+01-08-2016 11:07:14,582 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 5.00 B
+01-08-2016 11:07:14,583 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 5.00 B
+01-08-2016 11:07:14,586 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 180.00 B
+01-08-2016 11:07:14,586 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 180.00 B
+01-08-2016 11:07:14,590 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 190.00 B
+01-08-2016 11:07:14,592 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 190.00 B
+01-08-2016 11:07:14,594 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 125.00 B
+01-08-2016 11:07:14,595 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 125.00 B
+01-08-2016 11:07:16,423 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 5.00 B
+01-08-2016 11:07:16,424 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 5.00 B
+01-08-2016 11:07:16,425 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 75.00 B
+01-08-2016 11:07:16,428 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 75.00 B
+01-08-2016 11:07:16,429 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 110.00 B
+01-08-2016 11:07:16,432 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 110.00 B
+01-08-2016 11:07:16,435 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 65.00 B
+01-08-2016 11:07:16,446 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 245.00 B
+01-08-2016 11:07:16,451 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 65.00 B
+01-08-2016 11:07:16,452 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 245.00 B
+01-08-2016 11:07:18,422 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 16.00 B
+01-08-2016 11:07:18,423 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 16.00 B
+01-08-2016 11:07:18,425 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 368.00 B
+01-08-2016 11:07:18,426 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 368.00 B
+01-08-2016 11:07:18,431 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 448.00 B
+01-08-2016 11:07:18,432 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 448.00 B
+01-08-2016 11:07:18,435 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 176.00 B
+01-08-2016 11:07:18,438 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 176.00 B
+01-08-2016 11:07:18,440 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 416.00 B
+01-08-2016 11:07:18,441 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 416.00 B
+01-08-2016 11:07:18,443 [ÏêÏ¸     ] org.quickserver.net.server.impl.NonBlockingClientHandler.processGotDataInBuffers - Got BINARY [127.0.0.1] : 176.00 B
+01-08-2016 11:07:18,444 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 176.00 B
+01-13-2016 10:32:30,926 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-13-2016 10:32:31,240 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-13-2016 10:32:34,621 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.processRead - Got BINARY [127.0.0.1] : 6.00 B
+01-13-2016 10:32:36,858 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.processRead - Got BINARY [127.0.0.1] : 7.00 B
+01-13-2016 10:32:38,317 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.processRead - Got BINARY [127.0.0.1] : 5.00 B
+01-13-2016 10:32:59,959 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.processRead - Got BINARY [127.0.0.1] : 7.00 B
+01-13-2016 10:33:12,766 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.processRead - Got BINARY [127.0.0.1] : 5.00 B
+01-13-2016 10:33:23,148 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.processRead - Got BINARY [127.0.0.1] : 7.00 B
+01-13-2016 10:33:34,600 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-13-2016 10:33:34,601 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-13-2016 10:34:03,703 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.processRead - Got BINARY [127.0.0.1] : 5.00 B
+01-13-2016 10:34:47,215 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-13-2016 10:34:47,216 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-13-2016 10:34:58,895 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.processRead - Got BINARY [127.0.0.1] : 7.00 B
+01-13-2016 10:34:58,896 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 7.00 B
+01-13-2016 10:35:03,841 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.processRead - Got BINARY [127.0.0.1] : 7.00 B
+01-13-2016 10:35:03,842 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 7.00 B
+01-13-2016 10:35:05,929 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.processRead - Got BINARY [127.0.0.1] : 7.00 B
+01-13-2016 10:35:05,930 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 7.00 B
+01-13-2016 10:35:08,934 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.processRead - Got BINARY [127.0.0.1] : 5.00 B
+01-13-2016 10:35:08,935 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 5.00 B
+01-13-2016 10:35:53,028 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-13-2016 10:35:53,029 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-13-2016 10:36:02,338 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-13-2016 10:36:02,339 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-13-2016 10:36:19,928 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.processRead - Got BINARY [127.0.0.1] : 4.00 B
+01-13-2016 10:36:19,929 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.run - IOError <ClientThread-Pool#1-ID:19>: java.io.IOException: Data is not yet init!
+01-13-2016 10:36:25,959 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-13-2016 10:36:25,960 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-13-2016 10:36:25,982 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.processRead - Got BINARY [127.0.0.1] : 6.00 B
+01-13-2016 10:36:25,982 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.run - IOError <ClientThread-Pool#1-ID:19>: java.io.IOException: Data is not yet init!
+01-13-2016 10:36:58,674 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-13-2016 10:36:58,675 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-13-2016 10:37:07,252 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-13-2016 10:37:07,252 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-13-2016 10:37:11,246 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.processRead - Got BINARY [127.0.0.1] : 9.00 B
+01-13-2016 10:37:11,247 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 9.00 B
+01-13-2016 10:37:13,492 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.processRead - Got BINARY [127.0.0.1] : 5.00 B
+01-13-2016 10:37:13,492 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 5.00 B
+01-13-2016 10:37:16,214 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.processRead - Got BINARY [127.0.0.1] : 10.00 B
+01-13-2016 10:37:16,214 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 10.00 B
+01-13-2016 10:38:18,042 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-13-2016 10:38:18,043 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-13-2016 10:38:21,180 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-13-2016 10:38:21,181 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-13-2016 10:38:25,670 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.processRead - Got BINARY [127.0.0.1] : 10.00 B
+01-13-2016 10:38:35,590 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.processRead - Got BINARY [127.0.0.1] : 7.00 B
+01-13-2016 10:38:46,080 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.processRead - Got BINARY [127.0.0.1] : 5.00 B
+01-13-2016 10:40:04,487 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-13-2016 10:40:04,487 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-13-2016 10:40:07,287 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+01-13-2016 10:40:07,288 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+01-13-2016 10:40:10,149 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.processRead - Got BINARY [127.0.0.1] : 6.00 B
+01-13-2016 10:40:10,151 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 6.00 B
+01-13-2016 10:40:11,848 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.processRead - Got BINARY [127.0.0.1] : 4.00 B
+01-13-2016 10:40:11,849 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 4.00 B
+01-13-2016 10:40:13,769 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.processRead - Got BINARY [127.0.0.1] : 5.00 B
+01-13-2016 10:40:13,769 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.sendClientBinary - Sending [127.0.0.1] : 5.00 B
+01-13-2016 10:43:07,296 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.handleTimeout - Timeout - Client [127.0.0.1]
+01-13-2016 10:43:07,296 [·Ç³£ÏêÏ¸   ] org.quickserver.net.server.impl.BasicClientHandler.handleTimeout - SocketTimeoutException : Read timed out
+01-13-2016 10:43:07,297 [·Ç³£ÏêÏ¸   ] org.quickserver.net.server.impl.BlockingClientHandler.run - SocketException - Client [127.0.0.1]: Timeout
+01-13-2016 10:43:13,770 [ÏêÏ¸     ] org.quickserver.net.server.impl.BasicClientHandler.handleTimeout - Timeout - Client [127.0.0.1]
+01-13-2016 10:43:13,770 [·Ç³£ÏêÏ¸   ] org.quickserver.net.server.impl.BasicClientHandler.handleTimeout - SocketTimeoutException : Read timed out
+01-13-2016 10:43:13,771 [·Ç³£ÏêÏ¸   ] org.quickserver.net.server.impl.BlockingClientHandler.run - SocketException - Client [127.0.0.1]: Timeout
+02-27-2016 07:26:03,424 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+02-27-2016 07:26:03,495 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+02-27-2016 07:26:03,987 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.processRead - Got BINARY [192.168.0.100] : 17.00 B
+02-27-2016 07:26:03,988 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.run - IOError <ClientThread-Pool#1-ID:20>: java.io.IOException: Data is not yet init!
+02-27-2016 07:26:44,832 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Incoming, Mode:Binary
+02-27-2016 07:26:44,832 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.setDataMode - Setting Type:Outgoing, Mode:Binary
+02-27-2016 07:26:45,834 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.processRead - Got BINARY [192.168.0.100] : 17.00 B
+02-27-2016 07:26:45,834 [ÏêÏ¸     ] org.quickserver.net.server.impl.BlockingClientHandler.run - IOError <ClientThread-Pool#1-ID:20>: java.io.IOException: Data is not yet init!
